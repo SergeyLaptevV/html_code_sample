@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color:#6959CD;
+    background-image: url("../img/3.2.jpg");
+    text-align: center;
+}
+#main{
+    background: linear-gradient(to right,#40e0d0, #98fb98, #C0FF3E );
+    max-width:1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+a {
+    border-radius: 15px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+}
